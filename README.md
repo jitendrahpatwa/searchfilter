@@ -27,7 +27,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Project configuration
 > Component are in app.module injected through routing
+
 > First search by keyword by typing text
+
 > Select dropdown values accordingly
+
 > Submit to filter out from the data list array 
+
 > Can see the data filter list. 
